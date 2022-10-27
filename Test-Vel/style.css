@@ -1,0 +1,45 @@
+body{
+    background-image: url('./img/recife.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.n1 {
+    background-color: rgba(150, 150, 150, 0.95);
+    border-radius: 30px;
+    padding: 30px;
+}
+
+.but_sub {
+    position: relative;
+    left: 35%;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+.cont_placa {
+    margin: 20px 0;
+}
+
+.result {
+    margin-top: 50px;
+    position: relative;
+    left: 25%;
+    font-weight: bold;
+}
+
+#placa {
+    padding: 0 20px;
+}
+
+.man {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.tabela {
+    margin-top: 60px;
+    width: 300px;
+}

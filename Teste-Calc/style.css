@@ -1,0 +1,23 @@
+.calc {
+    display: flex;
+
+}
+
+.mais {
+    margin: 0 20px;
+}
+
+#num_2{
+    margin-right: 20px;
+}
+
+.cont__resultado {
+    width: 100px;
+    height: 50px;
+    margin: 20px 0;
+    border: 1px solid ;
+}
+
+.resultado {
+    text-align: center;
+}
